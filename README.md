@@ -5,7 +5,7 @@ Technologies Used
    Django REST Framework
    MySQL Database
 
-1.craete virtual environment
+1.create virtual environment
    >py -3 -m vene .venv
 2.activate virtual environment
   >.venv\scripts\activate
